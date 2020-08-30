@@ -1,0 +1,5 @@
+Este código de C++ está escrito en Zinjai 20191006 en conjunto con el diseñador gráfico WxFormBuilder 3.6.1.
+Espero que te sirva como guia en complemento con los videos que subí en mi canal de YouTube: El código Waldo
+
+Saludos y éxitos!
+Waldo.
