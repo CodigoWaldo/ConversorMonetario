@@ -1,5 +1,5 @@
 # 📌 Programa conversor de divisas.
-
+![imagen del sitio](github.png)
 ---
 
 ## 📝 Descripción
